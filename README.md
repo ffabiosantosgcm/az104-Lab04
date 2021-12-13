@@ -1,3 +1,5 @@
+# Lab 04 - Implement Virtual Networking
+
 # Lab scenario
 
 You need to explore Azure virtual networking capabilities. To start, you plan to create a virtual network in 
