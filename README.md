@@ -9,3 +9,5 @@ sure that their private and public IP addresses will not change over time. To co
 requirements, you need to protect public endpoints of Azure virtual machines accessible from Internet. 
 Finally, you need to implement DNS name resolution for Azure virtual machines both within the virtual 
 network and from Internet.
+
+![diagrama](https://user-images.githubusercontent.com/73297075/145905068-c89db021-69f4-42f9-befd-c30fc1f0bc8a.PNG)
